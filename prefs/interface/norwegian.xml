@@ -23,23 +23,23 @@
     </string>
     <string>
       <source>Different translation</source>
-      <translation>Anden oversættelse</translation>
+      <translation>Annen oversettelse</translation>
     </string>
     <string>
       <source>Cancel</source>
-      <translation>Fortryd</translation>
+      <translation>Avbryt</translation>
     </string>
     <string>
       <source>Translate</source>
-      <translation>Oversæt</translation>
+      <translation>Oversett</translation>
     </string>
     <string>
       <source>Use this translation</source>
-      <translation>Brug denne oversættelse</translation>
+      <translation>Bruk denne oversettelsen</translation>
     </string>
     <string>
       <source>Loading...</source>
-      <translation>Henter...</translation>
+      <translation>Laster...</translation>
     </string>
     <string>
       <source>Comment...</source>
@@ -49,7 +49,7 @@
   <context name="ExportDialog">
     <string>
       <source>Export translate</source>
-      <translation>Eksporter oversættelse</translation>
+      <translation>Eksporter oversettelse</translation>
     </string>
     <string>
       <source>Export</source>
@@ -61,11 +61,11 @@
     </string>
     <string>
       <source>Everything but untranslated strings</source>
-      <translation>Alt undtagen uoversatte strenge</translation>
+      <translation>Alt utenom uoversatte strenger</translation>
     </string>
     <string>
       <source>Only selected instance</source>
-      <translation>Kun udvalgt forekomst</translation>
+      <translation>Bare valgt forekomst</translation>
     </string>
     <string>
       <source>Each instance as a separate file</source>
@@ -77,29 +77,29 @@
     </string>
     <string>
       <source>Exported records</source>
-      <translation>Eksporterede poster</translation>
+      <translation>Eksporterte dokumenteringer</translation>
     </string>
     <string>
       <source>Cancel</source>
-      <translation>Fortryd</translation>
+      <translation>Avbryt</translation>
     </string>
     <string>
       <source>Selection only</source>
-      <translation>Kun valgte</translation>
+      <translation>Bare valgte</translation>
     </string>
   </context>
   <context name="MainTableView">
     <string>
       <source>Original</source>
-      <translation />
+      <translation>Opprinnelig</translation>
     </string>
     <string>
       <source>Translated</source>
-      <translation>Oversat</translation>
+      <translation>Oversatt(e)</translation>
     </string>
     <string>
       <source>LD</source>
-      <translation />
+      <translation/>
     </string>
     <string>
       <source>Instance</source>
@@ -121,11 +121,11 @@
     </string>
     <string>
       <source>Export translation</source>
-      <translation>Eksporter oversættelse</translation>
+      <translation>Eksporter oversettelse</translation>
     </string>
     <string>
       <source>Translation</source>
-      <translation>Oversættelse</translation>
+      <translation>Oversettelse</translation>
     </string>
     <string>
       <source>View</source>
@@ -133,7 +133,7 @@
     </string>
     <string>
       <source>Options</source>
-      <translation>Indstillinger</translation>
+      <translation>Innstillinger</translation>
     </string>
     <string>
       <source>Group</source>
@@ -141,43 +141,43 @@
     </string>
     <string>
       <source>Help</source>
-      <translation>Hjælp</translation>
+      <translation>Hjelp</translation>
     </string>
     <string>
       <source>Save as...</source>
-      <translation>Gem som...</translation>
+      <translation>Lagr som...</translation>
     </string>
     <string>
       <source>Close</source>
-      <translation>Luk</translation>
+      <translation>Lukk</translation>
     </string>
     <string>
       <source>Save</source>
-      <translation>Gem</translation>
+      <translation>Lagr</translation>
     </string>
     <string>
       <source>Save dictionary</source>
-      <translation>Gem ordbog</translation>
+      <translation>Lagr ordbok</translation>
     </string>
     <string>
       <source>Search and replace...</source>
-      <translation>Søg og erstat</translation>
+      <translation>Søk og erstatt</translation>
     </string>
     <string>
       <source>Validate all translations</source>
-      <translation>Valider alle oversættelser</translation>
+      <translation>Bekreft alle oversettelser</translation>
     </string>
     <string>
       <source>Reset all translations</source>
-      <translation>Nulstil alle oversættelser</translation>
+      <translation>Nullstill alle oversettelser</translation>
     </string>
     <string>
       <source>Exit</source>
-      <translation />
+      <translation>Avslutt</translation>
     </string>
     <string>
       <source>Undo</source>
-      <translation>Fortryd</translation>
+      <translation>Angre</translation>
     </string>
     <string>
       <source>About Qt...</source>
@@ -185,7 +185,7 @@
     </string>
     <string>
       <source>Options...</source>
-      <translation>Indstillinger</translation>
+      <translation>Innstillinger</translation>
     </string>
     <string>
       <source>To XML...</source>
@@ -193,15 +193,15 @@
     </string>
     <string>
       <source>Translate from dictionaries</source>
-      <translation>Oversæt fra ordbøger</translation>
+      <translation>Oversett fra ordbøker</translation>
     </string>
     <string>
       <source>Finalize package</source>
-      <translation>Færdiggør pakken</translation>
+      <translation>Ferdiggjør package-fil</translation>
     </string>
     <string>
       <source>Finalize package as...</source>
-      <translation>Færdiggør pakken som...</translation>
+      <translation>Ferdiggjør package-fil som...</translation>
     </string>
     <string>
       <source>To XML (Deaderpool's STBL editor)...</source>
@@ -209,19 +209,19 @@
     </string>
     <string>
       <source>To JSON (Sims 4 Studio format)...</source>
-      <translation>Til JSON (Sims 4 Studio format)...</translation>
+      <translation>Til JSON (Sims 4 Studio-format)...</translation>
     </string>
     <string>
       <source>To Binary (Sims 4 Studio format)...</source>
-      <translation>Til binær (Sims 4 Studio format)...</translation>
+      <translation>Til binær (Sims 4 Studio-format)...</translation>
     </string>
     <string>
       <source>Use original group</source>
-      <translation>Brug original gruppe</translation>
+      <translation>Bruk opprinnelig gruppe</translation>
     </string>
     <string>
       <source>Use high-bit</source>
-      <translation>Brug high-bit</translation>
+      <translation>Bruk høy-bit</translation>
     </string>
     <string>
       <source>To STBL...</source>
@@ -229,7 +229,7 @@
     </string>
     <string>
       <source>Use low-bit</source>
-      <translation>Brug low-bit</translation>
+      <translation>Bruk lav-bit</translation>
     </string>
     <string>
       <source>Edit String</source>
@@ -237,15 +237,15 @@
     </string>
     <string>
       <source>Validate as [translated]</source>
-      <translation>Valider som [translated]</translation>
+      <translation>Bekreft som [oversatt]</translation>
     </string>
     <string>
       <source>Validate as [work in progress]</source>
-      <translation>Valider som [work in progress]</translation>
+      <translation>Bekreft som [pågående arbeid]</translation>
     </string>
     <string>
       <source>Cancel translation</source>
-      <translation>Fortryd oversættelse</translation>
+      <translation>Avbryt oversettelse</translation>
     </string>
     <string>
       <source>Copy</source>
@@ -253,31 +253,31 @@
     </string>
     <string>
       <source>Paste</source>
-      <translation>Indsæt</translation>
+      <translation>Lim inn</translation>
     </string>
     <string>
       <source>Load file...</source>
-      <translation>Hent fil</translation>
+      <translation>Last fil</translation>
     </string>
     <string>
       <source>Add file...</source>
-      <translation>Tilføj fil</translation>
+      <translation>Legg til fil</translation>
     </string>
     <string>
       <source>Import translation...</source>
-      <translation>Importer oversættelse</translation>
+      <translation>Importer oversettelse...</translation>
     </string>
     <string>
       <source>Remove record</source>
-      <translation>Fjern post</translation>
+      <translation>Fjern dokumentering</translation>
     </string>
     <string>
       <source>Save bundle...</source>
-      <translation>Gem samlet pakke</translation>
+      <translation>Lagr bundt...</translation>
     </string>
     <string>
       <source>Load bundle...</source>
-      <translation>Hent samlet pakke...</translation>
+      <translation>Last bundt...</translation>
     </string>
     <string>
       <source>Numeration</source>
@@ -289,127 +289,127 @@
     </string>
     <string>
       <source>From the source file</source>
-      <translation>Fra kilde filen</translation>
+      <translation>Fra kildefilen</translation>
     </string>
     <string>
       <source>XML format</source>
-      <translation>XML format</translation>
+      <translation>XML-format</translation>
     </string>
     <string>
       <source>XML format (Deaderpool's STBL editor)</source>
-      <translation>XML format (Deaderpool's STBL editor)</translation>
+      <translation>XML-format (Deaderpool's STBL editor)</translation>
     </string>
     <string>
       <source>Batch translate...</source>
-      <translation>Batch-oversættelse</translation>
+      <translation>Satsvis oversettelse...</translation>
     </string>
     <string>
       <source>Translate</source>
-      <translation>Oversæt</translation>
+      <translation>Oversett</translation>
     </string>
     <string>
       <source>Color visualization</source>
-      <translation>Farve visualisering</translation>
+      <translation>Fargevisualisering</translation>
     </string>
   </context>
   <context name="Messages">
     <string>
       <source>Save dictionary for modified packages?</source>
-      <translation>Gem ordbog for ændrede pakker?</translation>
+      <translation>Lagr ordbok for redigerte package-filer?</translation>
     </string>
     <string>
       <source>Are you sure you want to delete the selected records?</source>
-      <translation>Er du sikker på, at du ønsker at slette de valgte poster?</translation>
+      <translation>Er du sikker på at du vil slette de valgte dokumenteringene?</translation>
     </string>
     <string>
       <source>Not found text records in this file!</source>
-      <translation>Der er ikke fundet tekst poster i denne fil!</translation>
+      <translation>Fant ikke tekstdokumenteringer i denne filen!</translation>
     </string>
     <string>
       <source>Not found text records in this files!</source>
-      <translation>Der er ikke fundet tekst poster i disse filer!</translation>
+      <translation>Fant ikke tekstdokumenteringer i disse filene!</translation>
     </string>
     <string>
       <source>Not found text records in following files:</source>
-      <translation>Der er ikke fundet tekst poster i følgende filer:</translation>
+      <translation>Fant ikke tekstdokumenteringer i følgende filer:</translation>
     </string>
     <string>
       <source>Translation completed with {} successes.
 
 Errors:
 {}</source>
-      <translation>Oversættelse afsluttet med {} succeser.
+      <translation>Oversettelse ferdig med {} vellykkelser.
 
-Fejl:
+Feil:
 {}</translation>
     </string>
     <string>
       <source>... and {} other errors</source>
-      <translation>... og {} andre fejl</translation>
+      <translation>... og {} andre feil</translation>
     </string>
   </context>
   <context name="Errors">
     <string>
       <source>Language code not found!</source>
-      <translation>Sprogkode ikke fundet!</translation>
+      <translation>Fant ikke språkkode!</translation>
     </string>
     <string>
       <source>Translation failed with error code: {}</source>
-      <translation>Oversættelsen fejlede med følgende fejlkode: {}</translation>
+      <translation>Oversettelse mislykket med feilkode {}</translation>
     </string>
     <string>
       <source>Invalid API key.</source>
-      <translation>Ugyldig API nøgle.</translation>
+      <translation>Ugyldig API-nøkkel.</translation>
     </string>
     <string>
       <source>Your quota has exceeded!</source>
-      <translation>Din kvote er nået!</translation>
+      <translation>Kvoten din har blit oversteget!</translation>
     </string>
     <string>
       <source>There was a temporary problem with the DeepL Service.</source>
-      <translation>Der var et midlertidigt problem med DeepL Service</translation>
+      <translation>Det var en midlertidig feil med DeepL-tjenesten.</translation>
     </string>
   </context>
   <context name="OptionsDialog">
     <string>
       <source>NOT FOUND</source>
-      <translation>IKKE FUNDET</translation>
+      <translation>IKKE FUNNET</translation>
     </string>
     <string>
       <source>{} not exist</source>
-      <translation>{} findes ikke</translation>
+      <translation>{} finnes ikke</translation>
     </string>
     <string>
       <source>FOUND</source>
-      <translation>FUNDET</translation>
+      <translation>FUNNET</translation>
     </string>
     <string>
       <source>BASE GAME</source>
-      <translation>GRUNDSPILLET</translation>
+      <translation>GRUNNSPILLET</translation>
     </string>
     <string>
       <source>Expansion packs</source>
-      <translation>Udvidelses pakker</translation>
+      <translation>Udvidelsespakker</translation>
     </string>
     <string>
       <source>Game packs</source>
-      <translation>Spil pakker</translation>
+      <translation>Spillpakker</translation>
     </string>
     <string>
       <source>Stuff packs</source>
-      <translation>Stuff pakker</translation>
+      <translation>Stæsjpakker</translation>
     </string>
     <string>
       <source>Options and dictionaries</source>
-      <translation>Indstillinger og ordbøger</translation>
+      <translation>Innstillinger og ordbøker</translation>
     </string>
     <string>
       <source>Build dictionaries</source>
-      <translation />
+      <translation>Bygg ordbøker</translation
     </string>
     <string>
       <source>Languages</source>
-      <translation>Sprog</translation>
+      <translation>Språk</translation>
     </string>
     <string>
       <source>Source</source>
@@ -417,31 +417,31 @@ Fejl:
     </string>
     <string>
       <source>Destination</source>
-      <translation>Destination</translation>
+      <translation>Mål</translation>
     </string>
     <string>
       <source>Game path</source>
-      <translation>Spil sti</translation>
+      <translation>Spillsti</translation>
     </string>
     <string>
       <source>...</source>
-      <translation />
+      <translation/>
     </string>
     <string>
       <source>Create backup package before finalization</source>
-      <translation>Opret backup pakke før afslutning</translation>
+      <translation>Opprett sikkerhetskopi av package-fil før ferdiggjørelse</translation>
     </string>
     <string>
       <source>Saving translation without conflicts (experemental)</source>
-      <translation>Gemmer oversættelse uden konflikter (eksperimenterende)</translation>
+      <translation>Lagrer oversettelse uten konflikter (eksperimental)</translation>
     </string>
     <string>
       <source>Interface</source>
-      <translation>Interface</translation>
+      <translation>Grensesnitt</translation>
     </string>
     <string>
       <source>Do not use automatic translation from other dictionaries</source>
-      <translation>Brug ikke automatisk oversættelse fra andre ordbøger</translation>
+      <translation>Bruk ikke automatiske oversettelser fra andre ordbøker</translation>
     </string>
     <string>
       <source>General</source>
@@ -449,15 +449,15 @@ Fejl:
     </string>
     <string>
       <source>Dictionaries</source>
-      <translation>Ordbøger</translation>
+      <translation>Ordbøker</translation>
     </string>
     <string>
       <source>DeepL API key</source>
-      <translation>DeepL API nøgle</translation>
+      <translation>DeepL API-nøkkel</translation>
     </string>
     <string>
       <source>Language</source>
-      <translation>Sprog</translation>
+      <translation>Språk</translation>
     </string>
     <string>
       <source>Theme</source>
@@ -465,79 +465,79 @@ Fejl:
     </string>
     <string>
       <source>Light</source>
-      <translation>Lys</translation>
+      <translation>Lyst</translation>
     </string>
     <string>
       <source>Dark</source>
-      <translation>Mørk</translation>
+      <translation>Mørkt</translation>
     </string>
     <string>
       <source>The application needs to be restarted</source>
-      <translation>Dette program skal genstartes</translation>
+      <translation>Programmet må startes om</translation>
     </string>
     <string>
       <source>The translation version differs from the application version, so the interface may not be fully translated</source>
-      <translation>Oversættelsesversionen er forskellig fra programmets version, så interfacet bliver måske ikke oversat</translation>
+      <translation>Oversettelsesversjonen er forskjellig fra programversjonen. Grensesnittet vil muligens ikke være fullt oversatt</translation>
     </string>
   </context>
   <context name="ReplaceDialog">
     <string>
       <source>Search and replace</source>
-      <translation>Søg og erstat</translation>
+      <translation>Søk og erstatt</translation>
     </string>
     <string>
       <source>Case sensitive</source>
-      <translation>Store og små bogstaver</translation>
+      <translation>Store og små bokstaver</translation>
     </string>
     <string>
       <source>Search</source>
-      <translation>Søg</translation>
+      <translation>Søk</translation>
     </string>
     <string>
       <source>Replace</source>
-      <translation>Erstat</translation>
+      <translation>Erstatt</translation>
     </string>
     <string>
       <source>Search and replace in:</source>
-      <translation>Søg og erstat i:</translation>
+      <translation>Søk og erstatt i:</translation>
     </string>
     <string>
       <source>All strings</source>
-      <translation>Alle strenge</translation>
+      <translation>Alle strenger</translation>
     </string>
     <string>
       <source>Not validated strings</source>
-      <translation>Ikke validerede strenge</translation>
+      <translation>Ikke bekreftede strenger</translation>
     </string>
     <string>
       <source>Cancel</source>
-      <translation>Fortryd</translation>
+      <translation>Avbryt</translation>
     </string>
     <string>
       <source>OK</source>
-      <translation />
+      <translation/>
     </string>
   </context>
   <context name="System">
     <string>
       <source>Saving package {}...</source>
-      <translation>Gemmer pakke {}...</translation>
+      <translation>Lagrer package-fil {}...</translation>
     </string>
     <string>
       <source>Loading dictionaries...</source>
-      <translation>Henter ordbøger...</translation>
+      <translation>Laster ordbøker...</translation>
     </string>
     <string>
       <source>Build dictionaries...</source>
-      <translation>Opbyg ordbøger</translation>
+      <translation>Bygg ordbøker</translation>
     </string>
     <string>
       <source>Exporting translate...</source>
-      <translation>Eksporterer oversættelse...</translation>
+      <translation>Eksporterer oversettelse...</translation>
     </string>
     <string>
       <source>Importing translate...</source>
-      <translation>Importerer oversættelse...</translation>
+      <translation>Importerer oversettelse...</translation>
     </string>
     <string>
       <source>All files</source>
@@ -549,39 +549,39 @@ Fejl:
     </string>
     <string>
       <source>STBL files</source>
-      <translation>STBL filer</translation>
+      <translation>STBL-filer</translation>
     </string>
     <string>
       <source>XML files</source>
-      <translation>XML filer</translation>
+      <translation>XML-filer</translation>
     </string>
     <string>
       <source>JSON files</source>
-      <translation>JSON filer</translation>
+      <translation>JSON-filer</translation>
     </string>
     <string>
       <source>Binary files</source>
-      <translation>Binære filer</translation>
+      <translation>Binær-filer</translation>
     </string>
     <string>
       <source>Opening file {}...</source>
-      <translation>Åbner fil {}...</translation>
+      <translation>Åpner fil {}...</translation>
     </string>
     <string>
       <source>Opening files...</source>
-      <translation>Åbner filer...</translation>
+      <translation>Åpner filer...</translation>
     </string>
     <string>
       <source>Opening file...</source>
-      <translation>Åbner fil</translation>
+      <translation>Åpner fil...</translation>
     </string>
     <string>
       <source>Translating...</source>
-      <translation>Oversætter</translation>
+      <translation>Oversetter...</translation>
     </string>
     <string>
       <source>Stopping translate, waiting for the finish of the threads...</source>
-      <translation>Stopper med at oversætte og venter på, at trådene bliver færdige...</translation>
+      <translation>Stopper oversettelse: venter på at tråder skal bli ferdige...</translation>
     </string>
   </context>
   <context name="ToolBar">
@@ -591,15 +591,15 @@ Fejl:
     </string>
     <string>
       <source>Search in translation</source>
-      <translation>Søg i oversættelse</translation>
+      <translation>Søk i oversettelse</translation>
     </string>
     <string>
       <source>Search in ID</source>
-      <translation>Søg i ID</translation>
+      <translation>Søk i ID</translation>
     </string>
     <string>
       <source>Search in original</source>
-      <translation>Søg i original</translation>
+      <translation>Søk i opprinnelig</translation>
     </string>
     <string>
       <source>-- All instances --</source>
@@ -607,33 +607,33 @@ Fejl:
     </string>
     <string>
       <source>Translated</source>
-      <translation>Oversat</translation>
+      <translation>Oversatt(e)</translation>
     </string>
     <string>
       <source>Not translated</source>
-      <translation>Ikke oversat</translation>
+      <translation>Ikke oversatt(e)</translation>
     </string>
     <string>
       <source>Validated translation</source>
-      <translation>Valideret oversættelse</translation>
+      <translation>Bekreftet oversettelse</translation>
     </string>
     <string>
       <source>Partial translation</source>
-      <translation>Delvis oversættelse</translation>
+      <translation>Delvis oversettelse</translation>
     </string>
     <string>
       <source>Different strings</source>
-      <translation>Forskellige strenge</translation>
+      <translation>Forskjellige strenger</translation>
     </string>
     <string>
       <source>Search...</source>
-      <translation>Søg...</translation>
+      <translation>Søk...</translation>
     </string>
   </context>
   <context name="ImportDialog">
     <string>
       <source>Import translate</source>
-      <translation>Importer oversættelse</translation>
+      <translation>Importer oversettelse</translation>
     </string>
     <string>
       <source>Overwrite</source>
@@ -645,23 +645,23 @@ Fejl:
     </string>
     <string>
       <source>Everything but already validated strings</source>
-      <translation>Alt, undtagen allerede validerede strenge</translation>
+      <translation>Alt utenom strenger som allerede er bekreftede</translation>
     </string>
     <string>
       <source>Everything but already validated and partial strings</source>
-      <translation>Alt, undtagen allederede validerede strenge og delvise strenge</translation>
+      <translation>Alt utenom strenger som er delvise eller bekreftede</translation>
     </string>
     <string>
       <source>Partial strings</source>
-      <translation>Delvise strenge</translation>
+      <translation>Delvise strenger</translation>
     </string>
     <string>
       <source>Selection only</source>
-      <translation>Kun valgte</translation>
+      <translation>Bare valgte</translation>
     </string>
     <string>
       <source>Replace existing translation</source>
-      <translation>Restat eksisterende oversættelse</translation>
+      <translation>Erstatt eksisterende oversettelse</translation>
     </string>
     <string>
       <source>Import</source>
@@ -669,63 +669,63 @@ Fejl:
     </string>
     <string>
       <source>Cancel</source>
-      <translation>Fortryd</translation>
+      <translation>Avbryt</translation>
     </string>
   </context>
   <context name="TranslateDialog">
     <string>
       <source>Translate</source>
-      <translation>Oversæt</translation>
+      <translation>Oversett</translation>
     </string>
     <string>
       <source>Cancel</source>
-      <translation>Fortryd</translation>
+      <translation>Avbryt</translation>
     </string>
     <string>
       <source>Batch translate</source>
-      <translation>Batch oversæt</translation>
+      <translation>Oversett satsvis</translation>
     </string>
     <string>
       <source>Log</source>
-      <translation />
+      <translation>Logg</translation>
     </string>
     <string>
       <source>Line-by-line translation</source>
-      <translation>Linje-for-linje oversættelse</translation>
+      <translation>Linje-for-linje-oversettelse</translation>
     </string>
     <string>
       <source>Multiline translation</source>
-      <translation>Flerlinje oversættelse</translation>
+      <translation>Flerlinjet oversettelse</translation>
     </string>
     <string>
       <source>Slow but more accurate translation.</source>
-      <translation>Langsom men mere korrekt oversættelse</translation>
+      <translation>Treg, men mer nøyaktig oversettelse.</translation>
     </string>
     <string>
       <source>A faster, but perhaps less accurate translation.</source>
-      <translation>En hurtigere, men måske mindre korrekt oversættelse</translation>
+      <translation>Rask, men potensielt mindre nøyaktig oversettelse.</translation>
     </string>
     <string>
       <source>Some lines could not be translated.</source>
-      <translation>Nogle linjer kunne ikke oversættes</translation>
+      <translation>Noen linjer kunne ikke bli oversatt.</translation>
     </string>
     <string>
       <source>Stop translate</source>
-      <translation>Stop oversættelse</translation>
+      <translation>Stopp oversettelse</translation>
     </string>
   </context>
   <context name="TextEditor">
     <string>
       <source>Undo</source>
-      <translation>Fortryd</translation>
+      <translation>Avbryt</translation>
     </string>
     <string>
       <source>Redo</source>
-      <translation>Gentag</translation>
+      <translation>Gjør om</translation>
     </string>
     <string>
       <source>Cut</source>
-      <translation>Klip</translation>
+      <translation>Klipp</translation>
     </string>
     <string>
       <source>Copy</source>
@@ -733,11 +733,11 @@ Fejl:
     </string>
     <string>
       <source>Paste</source>
-      <translation>Indsæt</translation>
+      <translation>Lim inn</translation>
     </string>
     <string>
       <source>Select All</source>
-      <translation>Vælg alle</translation>
+      <translation>Velg alle</translation>
     </string>
   </context>
 </ts>
